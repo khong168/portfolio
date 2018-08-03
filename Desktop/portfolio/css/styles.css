@@ -2,9 +2,11 @@ h1 {
   font-family: impact;
   font-size: 200px;
   color: #f78ff7;
+  text-align: center;
+  letter-spacing: 20px;
 }
 
-.fancy{
+.fancy {
   color: #0ba6b7;
   font-family: monospace;
   font-size: 15px;
@@ -20,13 +22,17 @@ h1 {
   background: #0ba6b7;
 }
 
-.happy {
+p.happy {
   width :500px;
-  height: 300px;
 }
 
-h2 .wings{
-  font-family: sans-serif
-  ont-weight: bold;
-  font-size: 20px;
+.wings {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+#unique {
+  font-size: 30px;
+  font-family: monospace;
 }
