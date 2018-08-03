@@ -27,7 +27,7 @@ p.happy {
 }
 
 .wings {
-  font-family: sans-serif;
+  font-family: impact;
   font-weight: bold;
   font-size: 40px;
 }
@@ -39,10 +39,19 @@ p.happy {
 }
 
 .waterfall {
+  text-align: center;
+  width: 600px;
   margin: 15px;
   border: 5px #f78ff7;
   padding: 5px;
-  background: linear-gradient(#f78ff7, #0ba6b7); 
+  background: linear-gradient(#f78ff7, #0ba6b7);
+}
 
+body {
+  font-family: sans-serif;
+}
 
+.family h3 {
+  font-weight: bold;
+  color: #f78ff7
 }
