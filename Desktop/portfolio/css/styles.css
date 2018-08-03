@@ -26,6 +26,13 @@ p.happy {
   width :500px;
 }
 
+.happy a {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: monospace;
+  color: #0ba6b7;
+}
+
 .wings {
   font-family: impact;
   font-weight: bold;
@@ -52,6 +59,7 @@ body {
 }
 
 .family h3 {
+  font-style: italic;
   font-weight: bold;
   color: #f78ff7
 }
