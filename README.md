@@ -11,7 +11,8 @@ _This is a webpage to show my understanding and competence with topics from the 
 ## Setup/Installation Requirements
 
 * _Open Terminal_
-* _git clone https://github.com/khong168/portfolio.git __
+* _git clone https://github.com/khong168/portfolio.git _
+* _gh-pages https://khong168.github.io/portfolio/ _
 * _open html page in Chrome_
 * _Behold and Enjoy_
 
